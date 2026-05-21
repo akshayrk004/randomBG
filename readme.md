@@ -8,7 +8,7 @@ Generate random background colors
 Minimal and clean UI
 Built with HTML, Tailwind CSS, and JavaScript
 
-[Live@]()
+[Live@](randombground.netlify.app)
 
 ![image](pic1.png)
 ![image](pic2.png)
